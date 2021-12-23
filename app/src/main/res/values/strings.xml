@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Movies Note</string>
+    <string name="header_text">TV Shows | Most Popular</string>
 </resources>
